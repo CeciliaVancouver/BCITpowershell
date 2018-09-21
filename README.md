@@ -1,0 +1,2 @@
+# BCITpowershell
+Powershell Exercises
